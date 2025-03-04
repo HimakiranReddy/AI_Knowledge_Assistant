@@ -1,0 +1,11 @@
+streamlit
+PyPDF2
+pandas
+numpy
+langchain
+sentence-transformers
+faiss-cpu
+chromadb
+llama-cpp-python
+openai
+torch
